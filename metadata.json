@@ -1,0 +1,6 @@
+{
+  "name": "Screen Translator Studio - مترجم الشاشة الفوري",
+  "description": "تطبيق ومحاكي ترجمة شاشة الموبايل الفورية مع زر عائم فوق الألعاب والتطبيقات، محرك Google ML Kit OCR، وتوليد كامل لأكواد Kotlin وFlutter الجاهزة للتشغيل.",
+  "requestFramePermissions": ["display-capture"],
+  "majorCapabilities": []
+}
